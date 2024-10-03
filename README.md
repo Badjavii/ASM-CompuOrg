@@ -7,6 +7,8 @@ This repository is created to document the learning process about the internal O
 - Computer Organization.
     - Introduction to Computer Organization - Basic Hardware.
     - Number Systems - History, components, and operations.
+    - History of Computing - Early Developments and 20th Century Advances.
+    - Deep Dive into von Neumann Architecture - ALU, CU, Registers, and Instruction Cycles.
 
 - Computer Architecture.
 
