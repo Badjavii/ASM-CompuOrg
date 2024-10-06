@@ -8,7 +8,7 @@ Las bases para desarrollar lo que hoy conocemos como computadoras se remontan a 
 
 Nuestra historia comienza en la antigua China, alrededor del año 500 a.C., con la invención del **ábaco**. Este sencillo pero ingenioso dispositivo permitió a los comerciantes y contadores realizar cálculos básicos con rapidez y precisión, facilitando el comercio y la administración en toda la región asiática y, eventualmente, en todo el mundo.
 
-Avanzamos unos siglos hasta el siglo III a.C., cuando los matemáticos hindúes desarrollaron **el sistema numérico decimal**. Este sistema, utilizando diez símbolos del 0 al 9, simplificó enormemente las operaciones matemáticas. Su adopción en Europa en el siglo XIII, gracias a Fibonacci, revolucionó las matemáticas y la economía, permitiendo el desarrollo de sistemas de contabilidad y comercio más eficientes.
+Avanzamos hasta el siglo III a.C., cuando los matemáticos hindúes desarrollaron **el sistema numérico decimal**. Este sistema, utilizando diez símbolos del 0 al 9, simplificó enormemente las operaciones matemáticas. Su adopción en Europa en el siglo XIII, gracias a Fibonacci, revolucionó las matemáticas y la economía, permitiendo el desarrollo de sistemas de contabilidad y comercio más eficientes.
 
 En el año 100 a.C., en un naufragio cerca de la isla griega de Anticitera, se descubrió un dispositivo mecánico sorprendente: **el Mecanismo de Anticitera**. Este artefacto, utilizado para predecir posiciones astronómicas y eclipses, es considerado una de las primeras computadoras analógicas, mostrando el avanzado conocimiento de la mecánica y la astronomía en la antigüedad.
 
