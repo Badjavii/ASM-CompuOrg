@@ -152,6 +152,7 @@ Los **sistemas operativos** comenzaron a evolucionar y a ser más sofisticados d
 
 - **DOS/360**: El sistema operativo para la serie IBM 360, que facilitaba la multiprogramación y el procesamiento por lotes.
 
+#
 ### Cuarta Generación de Computadoras (1980-hoy): La Computación Personal
 
 #### Apple II
