@@ -28,15 +28,15 @@ En 1890, Herman Hollerith desarrolló un **sistema de tarjetas perforadas** para
 
 ## Generaciones de la Historia de las Computadoras (del Siglo XX)
 
-### 1945-1955, Primera Generación
+### 1945-1955, Primera Generación: Los Tubos de Vacío
 
 (Contenido pendiente)
 
-### 1955-1965, Segunda Generación
+### 1955-1965, Segunda Generación: Los Transistores
 
 (Contenido pendiente)
 
-### 1965-1980, Tercera Generación
+### 1965-1980, Tercera Generación: Los Circuitos Integrados
 
 (Contenido pendiente)
 
