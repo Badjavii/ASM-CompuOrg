@@ -82,38 +82,65 @@ El **procesamiento por lotes** se convirtió en una característica importante e
 
 #### Tarjetas Perforadas y Cintas Perforadas para Programar
 
-Las 
+Las **tarjetas perforadas** y las **cintas perforadas** eran los principales medios de entrada y almacenamiento de datos y programas en esa época. Los programadores perforaban agujeros en tarjetas de papel o cintas para representar datos e instrucciones, que luego eran leídas por la computadora.
 
-(Contenido pendiente)
+#### Periféricos
 
-
-
-
-
-### Tarjetas Perforadas y Cintas Perforadas para Programar
-Las **tarjetas perforadas** y las **cintas perforadas** eran los principales medios de entrada y almacenamiento de datos y programas en esta época. Los programadores perforaban agujeros en tarjetas de papel o cintas para representar datos e instrucciones, que luego eran leídas por la computadora.
-
-### Periféricos
 Los **periféricos** como impresoras, lectores de tarjetas perforadas y cintas magnéticas comenzaron a ser más comunes y mejoraron la interacción con las computadoras. Estos dispositivos permitían la entrada y salida de datos de manera más eficiente y rápida.
 
-### Colas de Impresión
-Las **colas de impresión** se implementaron para gestionar la salida de datos de las computadoras. Esto permitía a varias tareas enviar sus datos a una impresora de manera ordenada y eficiente, evitando conflictos y mejorando la productividad.
+#### Colas de Impresión
 
-### Programa Abach
+Las **colas de impresión** se implementaron para gestionar la salida de datos de las computadoras. Esto permitía a varias tareas enviar sus datos a una impresora de manera ordenada y eficiente, eviando conflictos y mejorando la productividad.
+
+#### Programa Abach
+
 El **programa Abach** fue uno de los primeros ejemplos de software desarrollado para gestionar y optimizar el uso de los recursos de la computadora. Este tipo de software de sistemas comenzó a surgir durante esta generación, allanando el camino para el desarrollo de sistemas operativos más avanzados.
 
-### Lenguaje Ensamblador
-El **lenguaje ensamblador** se convirtió en el lenguaje de programación predominante durante esta generación. Este lenguaje de bajo nivel permitía a los programadores escribir instrucciones que eran directamente traducidas al lenguaje máquina de la computadora, mejorando la eficiencia y el control sobre el hardware.
+#### Lenguaje Ensamblador
 
-### Impacto de la Segunda Generación
-La segunda generación de computadoras trajo consigo avances significativos en la tecnología y la eficiencia del procesamiento de datos. La introducción de transistores marcó un cambio radical en el diseño y funcionamiento de las computadoras, permitiendo la creación de máquinas más compactas, rápidas y fiables. Estas innovaciones sentaron las bases para la tercera generación y el desarrollo de circuitos integrados.
+El **lenguaje ensamblador** se convirtió en el lenguaje de programación predominante durante esta generación. Este lenguaje de bajo nivel permitía a los programadores escribir instrucciones que eran directamente traducidas al lenguaje máquina de la computadora, mejorando la eficiendia y el control sobre el hardware.
 
+### Tercera Generación de Computadoras (1965-1980): Los Circuitos Integrados
 
+#### Circuitos Integrados
 
+La tercera generación de computadoras se caracterizó por el uso de **circuitos integrados** (ICs), una innovación introducida por John Kilby y Robert Noyce. Los circuitos integrados permitieron empaquetar múltiples transitores en un solo chip, lo que aumentó significativamente la velocidad y eficiencia de las computadoras, al mismo tiempo que redujo el tamaño y costo. 
 
-### 1965-1980, Tercera Generación: Los Circuitos Integrados
+#### Minicomputadores 
 
-(Contenido pendiente)
+La tercera generación vio el auge de los **minicomputadores**, que eran más pequeños y accesibles que las grandes mainframes de las generaciones anteriores. Dos de los más exitosos fueron:
+
+##### IBM 360
+
+- **Lanzamiento**: 1964
+- **Fabricante**: International Business Machine (IBM)
+- **Características**: Parte de la serie 7000 de IBM, el IBM 360 fue uno de los primeros sistemas en utilizar circuitos integrados. Era versátil y podía ser usado para aplicaciones científicas y comerciales.
+- **Impacto**: Se convirtió en un estándar en la industria y ayudó a popularizar el uso de computadoras en diferentes sectores.
+
+##### PDP-8
+
+- **Lanzamiento**: 1965
+- **Fabricante**: Digital Equipment Corporation (DEC)
+- **Características**: Conocido como el primer minicomputador exitoso comercialmente. Utilizaba circuitos integrados y era asequible para muchas empresas y universidades.
+- **Impacto**: Su diseño compacto y su bajo costo revolucionaron el acceso a la computación, permitiendo a más organizaciones beneficiarse de la tecnología informática.
+
+#### Tiempo Compartido
+
+El **tiempo compartido** se convirtió en una práctica común, permitiendo que múltiples usuarios accedieran y utilizaran la computadora al mismo tiempo. Esto mejoró la eficiencia y maximizó el uso de los recursos informáticos.
+
+#### Multiprogramación
+
+La **multiprogramación** permitió que varias tareas se ejecutaran simultáneamente en una computadora. Esto optimizó el rendimiento del sistema y redujo los tiempos de espera, mejorando la experiencia del usuario y la eficiencia operativa.
+
+#### Lenguaje de Programación de Alto Nivel
+
+Durante esta generación, se desarrollaron y popularizaron varios **lenguajes de programación de alto nivel**, como COBOL, FORTRAN y BASIC. Estos lenguajes hicieron que la programación fuera más accesible y eficiente, permitiendo a los desarrolladores escribir código más intuitivo y legible.
+
+#### Sistemas Operativos
+
+Los **sistemas operativos** comenzaron a evolucionar y a ser más sofisticados durante esta generación. Estos sistemas gestionaban los recursos del hardware y proporcionaban una interfaz para que los usuarios interactuaran con la computadora. Por ejemplo:
+
+- **DOS/360**: El sistema operativo para la serie IBM 360, que facilitaba la multiprogramación y el procesamiento por lotes.
 
 ### 1980-hoy, Cuarta Generación
 
