@@ -66,9 +66,50 @@ La **IAS**, diseñada por John von Neumann en el Instituto de Estudios Avanzados
 
 La **UNIVAC I** fue lanzada en 1951 y es conocida como la primera computadora **comercial** de propósito general. Fue fabricada por la empresa de John Presper Eckert y John Mauchly, quienes también diseñaron la ENIAC. La UNIVAC I ganó notoriedad por predecir correctamente la victoria de Eisenhower en las elecciones presidenciales de Estados Unidos de 1952, lo que demostró su capacidad y precisión en el procesamiento de datos.
 
-### 1955-1965, Segunda Generación: Los Transistores
+### Segunda Generación de Computadoras (1955-1965): Los Transistores
+
+#### Los Transistores
+
+La segunda generación de computadoras se caracterizó por el uso de **transitores**, inventados por los Laboratorios Bell en 1947. Los transistores reemplazaron a los tubos de vacío, lo que permitió construir computadoras más pequeñas, más rápidas, más baratas y más eficientes en términos de consumo de energía. Los transistores también eran mucho más fiables y tenían una vida útil más larga.
+
+#### IBM 7094
+
+La **IBM 7094** fue una de las computadoras más representativas de esta generación. Formaba parte de la serie 7000 de IBM, lanzada en 1952, pero la 7094 fue creada en 1964. Esta computadora utilizaba transistores y era capaz de realizar procesamiento por lotes, lo que mejoraba significativamente la eficiencia y la velocidad del procesamiento de datos.
+
+#### Procesamiento por Lotes
+
+El **procesamiento por lotes** se convirtió en una característica importante en esta generación. Este método permitía que las computadoras procesaran múltiples trabajos al mismo tiempo agrupándolos en lotes. Esto optimizaba el uso de la CPU y reducía el tiempo de espera para cada trabajo individual.
+
+#### Tarjetas Perforadas y Cintas Perforadas para Programar
+
+Las 
 
 (Contenido pendiente)
+
+
+
+
+
+### Tarjetas Perforadas y Cintas Perforadas para Programar
+Las **tarjetas perforadas** y las **cintas perforadas** eran los principales medios de entrada y almacenamiento de datos y programas en esta época. Los programadores perforaban agujeros en tarjetas de papel o cintas para representar datos e instrucciones, que luego eran leídas por la computadora.
+
+### Periféricos
+Los **periféricos** como impresoras, lectores de tarjetas perforadas y cintas magnéticas comenzaron a ser más comunes y mejoraron la interacción con las computadoras. Estos dispositivos permitían la entrada y salida de datos de manera más eficiente y rápida.
+
+### Colas de Impresión
+Las **colas de impresión** se implementaron para gestionar la salida de datos de las computadoras. Esto permitía a varias tareas enviar sus datos a una impresora de manera ordenada y eficiente, evitando conflictos y mejorando la productividad.
+
+### Programa Abach
+El **programa Abach** fue uno de los primeros ejemplos de software desarrollado para gestionar y optimizar el uso de los recursos de la computadora. Este tipo de software de sistemas comenzó a surgir durante esta generación, allanando el camino para el desarrollo de sistemas operativos más avanzados.
+
+### Lenguaje Ensamblador
+El **lenguaje ensamblador** se convirtió en el lenguaje de programación predominante durante esta generación. Este lenguaje de bajo nivel permitía a los programadores escribir instrucciones que eran directamente traducidas al lenguaje máquina de la computadora, mejorando la eficiencia y el control sobre el hardware.
+
+### Impacto de la Segunda Generación
+La segunda generación de computadoras trajo consigo avances significativos en la tecnología y la eficiencia del procesamiento de datos. La introducción de transistores marcó un cambio radical en el diseño y funcionamiento de las computadoras, permitiendo la creación de máquinas más compactas, rápidas y fiables. Estas innovaciones sentaron las bases para la tercera generación y el desarrollo de circuitos integrados.
+
+
+
 
 ### 1965-1980, Tercera Generación: Los Circuitos Integrados
 
