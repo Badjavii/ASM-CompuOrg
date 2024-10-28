@@ -66,6 +66,7 @@ La **IAS**, diseñada por John von Neumann en el Instituto de Estudios Avanzados
 
 La **UNIVAC I** fue lanzada en 1951 y es conocida como la primera computadora **comercial** de propósito general. Fue fabricada por la empresa de John Presper Eckert y John Mauchly, quienes también diseñaron la ENIAC. La UNIVAC I ganó notoriedad por predecir correctamente la victoria de Eisenhower en las elecciones presidenciales de Estados Unidos de 1952, lo que demostró su capacidad y precisión en el procesamiento de datos.
 
+#
 ### Segunda Generación de Computadoras (1955-1965): Los Transistores
 
 #### Los Transistores
@@ -100,6 +101,7 @@ El **programa Abach** fue uno de los primeros ejemplos de software desarrollado 
 
 El **lenguaje ensamblador** se convirtió en el lenguaje de programación predominante durante esta generación. Este lenguaje de bajo nivel permitía a los programadores escribir instrucciones que eran directamente traducidas al lenguaje máquina de la computadora, mejorando la eficiendia y el control sobre el hardware.
 
+#
 ### Tercera Generación de Computadoras (1965-1980): Los Circuitos Integrados
 
 #### Circuitos Integrados
@@ -136,14 +138,101 @@ La **multiprogramación** permitió que varias tareas se ejecutaran simultáneam
 
 Durante esta generación, se desarrollaron y popularizaron varios **lenguajes de programación de alto nivel**, como COBOL, FORTRAN y BASIC. Estos lenguajes hicieron que la programación fuera más accesible y eficiente, permitiendo a los desarrolladores escribir código más intuitivo y legible.
 
+#### Intel 4004: El Primer CPU Completo
+
+El **Intel 4004**, lanzado en 1971, fue el primer microprocesador completo en un solo chip, desarrollado por Intel. Este pequeño pero poderoso componente sentó las bases para los microprocesadores modernos y revolucionó la industria de la computación al permitir el desarrollo de computadoras más compactas y eficientes.
+
+#### Intel 8086
+
+El **Intel 8086**, lanzado en 1978, fue un microprocesador completo de 16 bits que se caracterizó por ser uno de los primeros microprocesadores en usar la arquitectura x86, que se convirtió en la base para muchos de los procesadores posteriores de Intel. Este componente tendría un gran impacto en los principios de la cuarta generación con uso en las primeras computadoras personales.
+
 #### Sistemas Operativos
 
 Los **sistemas operativos** comenzaron a evolucionar y a ser más sofisticados durante esta generación. Estos sistemas gestionaban los recursos del hardware y proporcionaban una interfaz para que los usuarios interactuaran con la computadora. Por ejemplo:
 
 - **DOS/360**: El sistema operativo para la serie IBM 360, que facilitaba la multiprogramación y el procesamiento por lotes.
 
-### 1980-hoy, Cuarta Generación
+### Cuarta Generación de Computadoras (1980-hoy): La Computación Personal
 
-(Contenido pendiente)
+#### Apple II
+
+La **Apple II**, lanzada en 1977 por Steve Jobs y Steve Wozniak, fue la primera computadora personal exitosa en el mercado. Popularizó el uso de computadoras en hogares y pequeñas empresas.
+
+#### IBM PC
+
+En 1981, IBM lanzó la **IBM PC**, que estableció un estándar en la industria de las computadoras personales. Utilizaba el sistema operativo **MS-DOS**, que se convirtió en el sistema operativo dominante de la época.
+
+#### Atari y RadioShack
+
+Las computadoras de **Atari** y **RadioShack** fueron fundamentales en la expansión de la informática personal. Atari lanzó los modelos 400 y 800, pioneros en gráficos y sonido avanzados. Además, su sistema de bus SIO facilitó la conexión de periféricos. La Atari 2600, aunque más conocida como consola de videojuegos, también influyó en la popularización de la informática en el hogar.
+
+RadioShack, que anteriormente presentarón el TRS-80 en 1977, uno de los primeros ordenadores personales accesibles, en 1980 lanzó el TRS-80 Color Computer, con gráficos en color y soporte para joysticks. Ese mismo año, introdujo el TRS-80 Pocket Computer, un ordenador de bolsillo con un intérprete BASIC completo.
+
+#### Macintosh
+
+En 1984, Apple revolucionó la industria nuevamente con el lanzamiento del **Macintosh**, la primera computadora personal con una interfaz gráfica de usuario (GUI) de éxito comercial. Este lanzamiento cambió la forma en que los usuarios interactuaban con las computadoras, haciéndolas más accesibles y fáciles de usar.
+
+#### MS-DOS
+
+En 1980, IBM estaba buscando un sistema operativo para su primera computadora personal, y acudieron a Microsoft. Aunque Microsoft no tenía un sistema operativo propio en ese momento, lograron adquirir los derechos de un sistema llamado **QDOS (Quick and Dirty Operating System)** de una pequeña empresa llamada Seattle Computer Products. Este sistema fue modificado y renombrado **MS-DOS (Microsoft Disk Operating System)**. Así, Bill Gates y su equipo jugaron un papel crucial en la personalización y venta de MS-DOS a IBM, lo cual catapultó a Microsoft a la fama.
+
+El **MS-DOS** se convirtió en un sistema operativo dominante en las computadoras personales, proporcionando una plataforma sencilla y robusta para la ejercución de programas.
+
+#### UNIX
+
+En 1969, Ken Thompson y Dennis Ritchie (creador del Lenguaje C) comenzaron a desarrollar **UNIX** en los laboratorios Bell de AT&T en Estados Unidos. Thompson creó la primera versión de UNIX, como **UNICS (Uniplexed Information and Computing Service)**, en una minicomputadora DEC PDP-7.
+
+Thompson y Ritchie trabajaron juntos para mejorar y expandir **UNIX**. En 1972, Ritchie completó la versión original del lenguaje de programación C, y Thompson reescribió el núcleo de UNIX en C, lo que hizo que UNIX fuera portátil y pudiera ser adaptado a diferentes plataformas de hardware. Esta portabilidad fue un avance significativo, ya que permitió que UNIX se utilizara en una amplia variedad de computadoras.
+
+UNIX se distribuyó ampliamente y se convirtió en la base para muchos sistemas operativos modernos, incluyendo Linux y MacOS, y fue fundamental para el desarrollo de sistemas multiusuario y multitarea.
+
+#### Multix
+
+El **Multix** fue un sistema operativo multiusuario compatible con el sistema eléctrico, allanando el camino para futuras innovaciones en la administración de recursos del sistema.
+
+#### Minix
+
+El **Minix** fue una versión de UNIX diseñada para PCs académicas por Andrew S. Tanenbaum. 
+
+#### Linux
+
+En 1991, Linus Torvalds, un estudiante de la Universidad de Helsinki, creó el núcleo de linux como un proyecto personal y lo publicó bajo la licencia GPL. Esto permitió a desarrolladores de todo el mundo colaborar y mejorar el sistema. A lo largo de los años, Linux creció en popularidad, especialmente en servidores y supercomputadoras, gracias a su estabilidad y flexibilidad. Con el tiempo, con sus múltiples distribuciones (Debian, Red Hat, Ubuntu, Kali, Arch, Android) se convirtió en un pilar fundamental para servidores y dispositivos móviles.
+
+#### MacOS
+
+**MacOS**, lanzado por primera vez en 2001 y está basado en UNIX, fue desarrollado por Apple para sus computadoras Mac y está basado en NeXTStep, un sistema operativo (con raíces en UNIX) desarrollado por NeXT, la empresa fundada por Steve Jobs después de su salida de Apple en 1985.
+
+Cuando Apple adquirió NeXT en 1996, incorporó muchas de las teconlogís de NeXTStep en lo que eventualmente se convertiría en MacOS. Una de las características clave de NeXTStep era su núcleo basado en UNIX, lo que proporcionó a MacOS una base robusta, estable y segura.
+
+#### Lenguaje C
+
+Durante esta generación, el **Lenguaje C** se consolidó como el lenguaje de programación predominante debido a su eficiencia y portabilidad. Sentó las bases para muchos sistemas operativos y aplicaciones modernas.
 
 
+#### Procesadores Intel
+
+La evolución de los **procesadores Intel** fue notable durante esta generación, con modelos como el 8086, 80386, 80486, Pentium, Pentium II, Pentium III y Pentium 4. El **Pentium 4D** fue el primer caso de doble CPU en una misma máquina, conocido hoy como Dual Core.
+
+#### Procesadores para Celulares ARM
+
+Los **procesadores ARM** permitieron el desarrollo de dispositivos móviles y smartphones más eficientes, revolucionando la informática móvil.
+
+#### Multiprocesadores
+
+Los **multiprocesadores** con varios núcleos trabajando en paralelo mejoraron la eficiencia y capacidad de procesamiento. Ejemplos notables son los **AMD X2** y la serie **RYZEN**.
+
+#### ARPANET
+
+La **ARPANET** fue el precursor de Internet y permitió la comunicación entre computadoras a través de redes de conmutación de paquetes, sentando las bases para la red global que conocemos hoy.
+
+#### Windows 95
+
+En 1995, Microsoft lanzó **Windows 95**, que introdujo una interfaz gráfica de usuario mejorada y gestión de archivos y programas. Este lanzamiento no estuvo exento de controversia, ya que hubo disputas legales entre Microsoft (Bill Gates) y Apple (Steve Jobs) sobre patentes y derechos de propiedad intelectual.
+
+#### Windows XP
+
+En 2001, Microsoft lanzó **Windows XP**, que se convirtió en uno de los sistemas operativos más populares y duraderos.
+
+#### Multiprogramación y Los Hilos
+
+La **multiprogramación** y los **hilos** permitieron la ejecución concurrente de múltiples tareas, optimizando el uso del procesador y mejorando el rendimiento del sistema.
