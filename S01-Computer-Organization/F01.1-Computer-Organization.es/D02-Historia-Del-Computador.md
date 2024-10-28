@@ -28,9 +28,43 @@ En 1890, Herman Hollerith desarrolló un **sistema de tarjetas perforadas** para
 
 ## Generaciones de la Historia de las Computadoras (del Siglo XX)
 
-### 1945-1955, Primera Generación: Los Tubos de Vacío
+### Primera Generación de Computadoras (1945-1955): Los Tubos de Vacío
 
-(Contenido pendiente)
+#### Tubos de Vacío
+
+La primera generación de computadoras se caracterizó por el uso de **tubos de vacío**. Estos componentes permitían amplificar, conmutar y modificar señales electrónicas. Aunque eran grandes, producían mucho calor y tenían una alta tasa de fallos, permitieron avances significativos en la capacidad de cálculo y velocidad de procesamiento en comparación con las máquinas macánicas anteriores.
+
+#### Cableado y Switches
+
+El **cableado** y los **switches** eran esenciales para crear los circuitos necesarios para las operaciones lógicas y aritméticas. La programación en esta generación era manual y extremadamente laboriosa, requiriendo la conexión física de cables y switches para implementar diferentes funciones. Este proceso, aunque tedioso, sentó las bases para la futura automatización en la programación.
+
+#### Programación en Lenguaje Máquina
+
+Las computadoras de la primera generación se programaban en **lenguaje máquina**, que consiste en instrucciones en código binario (combinaciones de 0 y 1) que la máqioma puede interpretar directamente. Este tipo de programación era complejo y propenso a errores, ya que los programadores debían trabajar con el lenguaje de más bajo nivel posible.
+
+#### ENIAC (Electronic Numerical Integrator and Computer)
+
+La **ENIAC** fue construida en 1945 por John Presper Eckert y John Mauchly en la Universidad de Pensilvania. Tenía aproximadamente 18 mil tubos de vacío y pesaba 27 toneladas. Es considerada como la primera computadora electronica de propósito general del mundo y que trabajaba en base decimal. La ENIAC fue diseñada inicialmente para calcular tablas de artillería para el Ejército de los Estados Unidos durante la Segunda Guerra Mundial. A pesar de su tamaño y su gran consumo energético, podía realizar alrededor de 5 mil operaciones por segundo, lo que la hacía una de las computadoras más rápidas de su tiempo.
+
+#### IBM 701
+
+La **IBM 701** fue la primera computadora comercial de IBM, lanzada en 1952. Utilizaba tubos de vacío y era capaz de realizar operaciones científicas complejas. Su introducción marcó el inicio de las computadoras comerciales y fue utilizada principalmente por el gobierno y grandes empresas para tareas científicas y de defensa.
+
+#### Whirlwind I (WIBK)
+
+Desarrollada por el MIT, la **Whirlwind I** fue una de las primeras computadoras capaces de operar en tiempo real. Esto la hizo crucial para los sistemas de defensa aérea de Estados Unidos. También fue una de las primeras en utilizar una pantalla de visualización para salida de datos, lo cual fue un gran avance en la interacción hombre-máquina.
+
+#### EDVAC (Electronic Discrete Variable Automatic Computer)
+
+La **EDVAC** fue una de las primeras computadors en implementar el concepto de **programa almacenado**, propuesto por John von Neumann. Utilizaba cinta magnética para el almacenamiento de datos, lo que permitía una mayor flexibilidad y eficiencia en el procesamiento de la información en comparación con las computadoras anteriores.
+
+#### IAS (Institute for Advanced Study Computer)
+
+La **IAS**, diseñada por John von Neumann en el Instituto de Estudios Avanzados, fue una de las primeras en seguir la arquitectura de Von Neumann. Esta arquitectura, basada en el concepto de **programa almacenado**, separa la unidad de procesamiento (CPU) de la memoria y los dispositivos de entrada/salida. Este diseño se convirtió en el estándar de hardware para los computadores y sigue siendo la base de la informática moderna.
+
+#### UNIVAC I (Universal Automatic Computer)
+
+La **UNIVAC I** fue lanzada en 1951 y es conocida como la primera computadora **comercial** de propósito general. Fue fabricada por la empresa de John Presper Eckert y John Mauchly, quienes también diseñaron la ENIAC. La UNIVAC I ganó notoriedad por predecir correctamente la victoria de Eisenhower en las elecciones presidenciales de Estados Unidos de 1952, lo que demostró su capacidad y precisión en el procesamiento de datos.
 
 ### 1955-1965, Segunda Generación: Los Transistores
 
@@ -43,3 +77,5 @@ En 1890, Herman Hollerith desarrolló un **sistema de tarjetas perforadas** para
 ### 1980-hoy, Cuarta Generación
 
 (Contenido pendiente)
+
+
