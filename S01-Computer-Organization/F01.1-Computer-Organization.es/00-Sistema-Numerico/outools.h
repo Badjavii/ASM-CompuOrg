@@ -9,7 +9,7 @@
 #endif
 
 #include <cstdio>
-//#include "indicator/progress_spinner.h"
+#include "indicator/progress_spinner.h"
 #include <thread> // Incluye la libreria para el manejo de hilos
 #include <chrono> // Incluye la libreria para el manejo del tiempo
 #include <sstream> // Incluye la librería para el manejo de string streams
@@ -104,7 +104,7 @@ void cinv(const string &datatype, T &variable) {
     }
 }
 
-/*void showProgressSpinner(int duration, const string& message) {
+void showProgressSpinner(int duration, const string& message) {
     using namespace indicators;
 
     ProgressSpinner spinner{
@@ -122,7 +122,7 @@ void cinv(const string &datatype, T &variable) {
 
     spinner.mark_as_completed();
 }
-*/
+
 
 #endif // OUTOOLS_H
 
