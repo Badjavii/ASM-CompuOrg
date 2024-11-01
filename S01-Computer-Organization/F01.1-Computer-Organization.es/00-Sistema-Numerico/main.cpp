@@ -1,8 +1,9 @@
 #include <iostream>
-#include "outools.h"
 #include <thread>
 #include <chrono>
-#include "menu.h"
+#include "libs/outools.h"
+#include "libs/menu.h"
+
 using namespace std;
 
 int main(){
@@ -17,11 +18,11 @@ int main(){
         cinv("int", op);
     }
     if (op == 1){
-        menu_principal();        //
+        main_menu();        // Main Menu in English
         showProgressSpinner(6, "Leaving the Sistem");
     } else if (op == 2){
-        menu_principal_es();     //
-        showProgressSpinner(6, "Saliendo del Sistema"); 
+        main_menu_es();     // Main Menu in Spanish
+        showProgressSpinner(6, "Saliendo del Sistema");
     }
 
     return 0;
