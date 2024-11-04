@@ -45,3 +45,28 @@ El número `1010` en el sistema binario se descompone como:
 
 $$1 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 0 \times 2^0 = 8 + 0 + 2 + 0 = 10$$
 
+### Sistema Numérico Hexadecimal
+
+El sistema numérico hexadecimal es ampliamente utilizado en la informática para simplificar la representación de números binarios largos. Tiene una base de 16, lo que significa que utiliza dieciséis símbolos diferentes: 0-9 y A-F, donde A representa el 10, B el 11, y así sucesivamente hasta F, que representa el 15.
+
+**Ejemplo:**"
+
+El número `1A` en el sistema hexadecimal se descompone como:
+
+$$1 \times 16^1 + A \times 16^0 = 1 \times 16 + 10 \times 1 = 16 + 10 = 26$$
+
+#### Relación con las Direcciones de Memoria
+
+En informática, las direcciones de memoria a menudo se expresan en hexadecimal porque esta base es más compacta y fácil de leer para los humanos que el binario. Una dirección de memoria como `0x1A3F` es mucho más manejable que su equivalente en binario `0001101000111111`.
+
+## Breve Historia de los Sistemas de Numeración 
+
+La historia de los sistemas de numeración es fascinante con cada cultura desarrollando sus propios métodos para contar y representar números.
+
+### Sistema Numérico Maya
+
+Los antiguos mayas desarrollaron un sistema vigesimal (base 20) que utilizaba puntos y rayas para representar números. Su sistema también incluía el concepto del cero, algo inusual para la época. Este sistema era crucial para sus calendarios y complejos cálculos astronómicos.
+
+### Sistema Numérico Babilónico
+
+Los babilonicos utilizaban un sistema sexagesimal (base 60). Este sistema es la razón por la cual tenemos 60 segundos en un minuto y 60 minutos en una hora. Se basaba en símbolos que representaban valores y posiciones, permitiendo una gran precisión en cálculos astronómicos.
