@@ -59,9 +59,7 @@ $$1 \times 16^1 + A \times 16^0 = 1 \times 16 + 10 \times 1 = 16 + 10 = 26$$
 
 En informática, las direcciones de memoria a menudo se expresan en hexadecimal porque esta base es más compacta y fácil de leer para los humanos que el binario. Una dirección de memoria como `0x1A3F` es mucho más manejable que su equivalente en binario `0001101000111111`.
 
-## Breve Historia de los Sistemas de Numeración 
-
-La historia de los sistemas de numeración es fascinante con cada cultura desarrollando sus propios métodos para contar y representar números.
+## Curiosidades sobre la Historia de los Sistemas de Numeración 
 
 ### Sistema Numérico Maya
 
