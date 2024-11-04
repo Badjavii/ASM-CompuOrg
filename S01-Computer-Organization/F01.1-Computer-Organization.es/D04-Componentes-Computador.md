@@ -25,7 +25,7 @@ La **Unidad Central de Procesamiento (CPU)** es el cerebro del computador. Se en
 La **Memoria Principal** es donde se almacenan temporalmente los datos y las instrucciones que la CPU necesita para ejecutar los programas. La memoria principal es volátil, lo que significa que pierde su contenido cuando se apaga el computador. 
 
 <div style="text-align: center">
-    <img src="/sources/ImgCompuOrg/primary-memory.jpg">
+    <img src="/sources/ImgCompuOrg/primary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;>
 </div>
 
 ### Dispositivos De Entrada/Salida (E/S)
