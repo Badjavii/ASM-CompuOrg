@@ -18,7 +18,7 @@ La **Unidad Central de Procesamiento (CPU)** es el cerebro del computador. Se en
 
 - **Unidad Aritmético-Lógica (ALU)**: Realiza operaciones aritméticas (como suma y resta) y lógicas (como AND, OR, NOT).
 
-> Se profundiza a detalle sobre el CPU en ![Diseño interno del CPU](/S01-Computer-Organization/F01.1-Computer-Organization.es/D05-Unidad-Central-Procesamiento.md)
+> Se profundiza a detalle sobre el CPU en [Diseño interno del CPU](/S01-Computer-Organization/F01.1-Computer-Organization.es/D05-Unidad-Central-Procesamiento.md).
 
 ### Memoria Principal
 
