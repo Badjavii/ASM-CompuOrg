@@ -14,10 +14,26 @@ Virtualmente todos los computadores actuales se han desarrollado basándose en l
 
 La **Unidad Central de Procesamiento (CPU)** es el cerebro del computador. Se encarga de ejecutar las instrucciones de los programas y coordinar las actividades de todos los demás componentes del sistema. La CPU se compone de dos partes principales:
 
-- **Unidad de Control (UC)**: Dirige el flujo de datos entra la CPU y otros dispositivos. Interpreta las instrucciones de los programas y genera señales de control para ejecutar esas instrucciones. Dentro de la UC se encuentran varios registros importantes como MAR, MBR, PC, IR, E/S AR
+- **Unidad de Control (UC)**: Dirige el flujo de datos entra la CPU y otros dispositivos. Interpreta las instrucciones de los programas y genera señales de control para ejecutar esas instrucciones. La UC contiene varios registros generales y registros específicos que ayudan en la ejecución de las instrucciones.
 
 - **Unidad Aritmético-Lógica (ALU)**: Realiza operaciones aritméticas (como suma y resta) y lógicas (como AND, OR, NOT).
 
+> Se profundiza a detalle sobre el CPU en ![Diseño interno del CPU](/S01-Computer-Organization/F01.1-Computer-Organization.es/D05-Unidad-Central-Procesamiento.md)
+
 ### Memoria Principal
 
-La **Memoria Principal** es donde se almacenan temporalmente los datos y las instrucciones que la CPU necesita para ejecutar los programas. 
+La **Memoria Principal** es donde se almacenan temporalmente los datos y las instrucciones que la CPU necesita para ejecutar los programas. La memoria principal es volátil, lo que significa que pierde su contenido cuando se apaga el computador. 
+
+![This is an imagen](/sources/ImgCompuOrg/primary-memory.jpg)
+
+### Dispositivos De Entrada/Salida (E/S)
+
+Los **Dispositivos de Entrada/Salida (E/S)** permiten la comunicación entre el computador y el mundo exterior. Los dispositivos de entrada incluyen teclados, ratones y escáneres, mientras que los dispositivos de salida incluyen monitores, impresoras y altavoces.
+
+![This is an imagen](/sources/ImgCompuOrg/input-output-devices.jpg)
+
+### Memoria Secundaria 
+
+La **Memoria Secundaria** proporciona almacenamiento a largo plazo para datos y programas. A diferencia de la memoria principal, la memoria secundaria es no volátil, lo que significa que retiene su contenido incluso cuando se apaga el computador. Ejemplos de memoria secundaria incluyen discos duros, unidades de estado sólido (SSD) y unidades de disco óptico.
+
+![This is an imagen](/sources/ImgCompuOrg/secundary-memory.jpg)
