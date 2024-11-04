@@ -24,8 +24,8 @@ La **Unidad Central de Procesamiento (CPU)** es el cerebro del computador. Se en
 
 La **Memoria Principal** es donde se almacenan temporalmente los datos y las instrucciones que la CPU necesita para ejecutar los programas. La memoria principal es volátil, lo que significa que pierde su contenido cuando se apaga el computador. 
 
-<div style="text-align: center">
-    <img src="/sources/ImgCompuOrg/primary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;>
+<div style="text-align: center;">
+    <img src="/sources/ImgCompuOrg/primary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;"> 
 </div>
 
 ### Dispositivos De Entrada/Salida (E/S)
@@ -33,7 +33,7 @@ La **Memoria Principal** es donde se almacenan temporalmente los datos y las ins
 Los **Dispositivos de Entrada/Salida (E/S)** permiten la comunicación entre el computador y el mundo exterior. Los dispositivos de entrada incluyen teclados, ratones y escáneres, mientras que los dispositivos de salida incluyen monitores, impresoras y altavoces.
 
 <div style="text-align: center">
-    <img src="/sources/ImgCompuOrg/input-output-devices.jpg" alt="This is an image" style="width: 50%; height: auto;>
+    <img src="/sources/ImgCompuOrg/input-output-devices.jpg" alt="This is an image" style="width: 50%; height: auto;">
 </div>
 
 ### Memoria Secundaria 
@@ -41,5 +41,5 @@ Los **Dispositivos de Entrada/Salida (E/S)** permiten la comunicación entre el 
 La **Memoria Secundaria** proporciona almacenamiento a largo plazo para datos y programas. A diferencia de la memoria principal, la memoria secundaria es no volátil, lo que significa que retiene su contenido incluso cuando se apaga el computador. Ejemplos de memoria secundaria incluyen discos duros, unidades de estado sólido (SSD) y unidades de disco óptico.
 
 <div style="text-align: center">
-    <img src="/sources/ImgCompuOrg/secundary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;>
+    <img src="/sources/ImgCompuOrg/secundary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;">
 </div>
