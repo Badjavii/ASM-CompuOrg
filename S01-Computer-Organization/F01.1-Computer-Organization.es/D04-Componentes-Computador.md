@@ -1,6 +1,6 @@
 # Componentes del Computador
 
-Virtualmente todos los computadores actuales se han desarrollado basándose en los conceptos desarrollados por John von Neumann en el Instituto de Estudios Avanzados de Priceton. Tal diseño se conoce con el nombre de ´Arquitectura de von Neumannn´ y se basa en tres conceptos clave:
+Virtualmente todos los computadores actuales se han desarrollado basándose en los conceptos desarrollados por John von Neumann en el Instituto de Estudios Avanzados de Priceton. Tal diseño se conoce con el nombre de *Arquitectura de von Neumannn* y se basa en tres conceptos clave:
 
 - Los datos y las instrucciones se almacenan en una sola memoria de lectura-escritura.
 
@@ -32,10 +32,14 @@ La **Memoria Principal** es donde se almacenan temporalmente los datos y las ins
 
 Los **Dispositivos de Entrada/Salida (E/S)** permiten la comunicación entre el computador y el mundo exterior. Los dispositivos de entrada incluyen teclados, ratones y escáneres, mientras que los dispositivos de salida incluyen monitores, impresoras y altavoces.
 
-![This is an imagen](/sources/ImgCompuOrg/input-output-devices.jpg)
+<div style="text-align: center">
+    <img src="/sources/ImgCompuOrg/input-output-devices.jpg" alt="This is an image" style="width: 50%; height: auto;>
+</div>
 
 ### Memoria Secundaria 
 
 La **Memoria Secundaria** proporciona almacenamiento a largo plazo para datos y programas. A diferencia de la memoria principal, la memoria secundaria es no volátil, lo que significa que retiene su contenido incluso cuando se apaga el computador. Ejemplos de memoria secundaria incluyen discos duros, unidades de estado sólido (SSD) y unidades de disco óptico.
 
-![This is an imagen](/sources/ImgCompuOrg/secundary-memory.jpg)
+<div style="text-align: center">
+    <img src="/sources/ImgCompuOrg/secundary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;>
+</div>
