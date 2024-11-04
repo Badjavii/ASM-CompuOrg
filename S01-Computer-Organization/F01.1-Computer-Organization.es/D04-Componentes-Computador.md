@@ -38,8 +38,22 @@ Los **Dispositivos de Entrada/Salida (E/S)** permiten la comunicación entre el 
 
 ### Memoria Secundaria 
 
-La **Memoria Secundaria** proporciona almacenamiento a largo plazo para datos y programas. A diferencia de la memoria principal, la memoria secundaria es no volátil, lo que significa que retiene su contenido incluso cuando se apaga el computador. Ejemplos de memoria secundaria incluyen discos duros, unidades de estado sólido (SSD) y unidades de disco óptico.
+La **Memoria Secundaria** proporciona almacenamiento a largo plazo para datos y programas. A diferencia de la memoria principal, la memoria secundaria es no volátil, lo que significa que retiene su contenido incluso cuando se apaga el computador. Ejemplos de memoria secundaria incluyen discos duros, unidades de estado sólido (SSD) y unidades de disco óptico (CD/DVD).
 
 <div style="text-align: center">
     <img src="/sources/ImgCompuOrg/secundary-memory.jpg" alt="This is an image" style="width: 50%; height: auto;">
 </div>
+
+### Buses de Comunicación
+
+Los **Buses de Comunicación** son canales que permiten la transferencia de datos entre los diferentes componentes del computador. Los buses principales incluyen:
+
+- **Bus de Datos**: Transporta los datos entre la CPU, la memoria y los dispositivos de E/S.
+
+- **Bus de Direcciones**: Transporta las direcciones de memoria donde se almacenan los datos.
+
+- **Bus de Control**: Transporta las señales de control que coordinan las actividades de los componentes del sistema.
+
+### Reloj del Sistema 
+
+El **Reloj del Sistema** genera pulsos de sincronización que regulan el ritmo de las operaciones del computador. Cada pulso del reloj permite que la CPU realice una operación básica, como leer una instrucción o escribir datos en la memoria. La frecuencia del reloj se mide en Hertz (Hz), y determina cúantos ciclos de reloj ocurren por segundo. Por ejemplo, un reloj de 3 GHz (gigahercios) genera 3 mil millones de ciclos por segundo.
