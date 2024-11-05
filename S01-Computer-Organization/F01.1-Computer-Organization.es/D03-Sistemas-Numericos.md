@@ -235,7 +235,7 @@ Restar `123` de `456` usando complemento a 10 (complemento a la base):
     </tr>
     <tr>
         <td>-1</td>
-        <td>1111</td>
+        <td></td>
         <td>1001</td>
         <td>1110</td>
         <td>1111</td>
@@ -244,7 +244,7 @@ Restar `123` de `456` usando complemento a 10 (complemento a la base):
     </tr>
     <tr>
         <td>-2</td>
-        <td>1110</td>
+        <td></td>
         <td>1010</td>
         <td>1101</td>
         <td>1110</td>
@@ -253,7 +253,7 @@ Restar `123` de `456` usando complemento a 10 (complemento a la base):
     </tr>
     <tr>
         <td>-3</td>
-        <td>1101</td>
+        <td></td>
         <td>1011</td>
         <td>1100</td>
         <td>1101</td>
@@ -262,7 +262,7 @@ Restar `123` de `456` usando complemento a 10 (complemento a la base):
     </tr>
     <tr>
         <td>-4</td>
-        <td>1100</td>
+        <td></td>
         <td>1100</td>
         <td>1011</td>
         <td>1100</td>
