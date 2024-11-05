@@ -132,14 +132,14 @@ También se puede ver como recorrer el número de derecha a izquierda hasta enco
 En cualquier sistema de base R, el complemento a la base se obtiene restando el número \( R^D \), donde D es el tamaño de la palabra, menos el número N.
 
 **Fórmula:**
-$$ R^D - N $$
+$$R^D - N$$
 
 ### Complemento a la Base -1
 
 El complemento a la base menos 1 se obtiene restando el número de \( R^D \) menos N, y luego restando 1.
 
 **Fórmula:**
-$$ R^D - N - 1 $$
+$$R^D - N - 1$$
 
 **Ejemplo en decimal:**
 
