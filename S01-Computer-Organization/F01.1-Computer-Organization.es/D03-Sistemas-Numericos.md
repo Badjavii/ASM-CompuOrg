@@ -178,7 +178,6 @@ Restar `123` de `456` usando complemento a 10 (complemento a la base):
 
 ### Tabla Comparativa de Representación de Datos
 
-```html
 <table>
     <tr>
         <th>Decimal</th>
