@@ -150,18 +150,6 @@ Para el número 347 en base 10:
 
 Para restar dos números utilizando complementos, convertimos el sustraendo a su complemento y sumamos.
 
-**Ejemplo en binario:**
-
-Restar `1010` de `1101` usando complemento a 2:
-1. Complemento a 2 de `1010`: `0110`
-2. Sumar: \( 1101 + 0110 = 1\underline{0011} \)
-
-########################################
-
-### Algoritmos de Sustracción con Complementos
-
-Para restar dos números utilizando complementos, convertimos el sustraendo a su complemento y sumamos.
-
 #### Pasos:
 
 1. **Encuentra el complemento 2 del sustraendo**: Este paso implica invertir todos los bits del número y luego sumar 1.
@@ -185,3 +173,170 @@ Restar `123` de `456` usando complemento a 10 (complemento a la base):
 - Complemento a 10 (a la base) de `123`: \( 1000 - 123 = 877 \)
 2. Suma `456` y `877`: \( 456 + 877 = 1\underline{1333} \)
 3. Ignoramos el acarreo final (el dígito más a la izquierda, `1`): El resultado es `333`.
+
+## Representación Interna de Datos con Sistemas Numéricos
+
+### Tabla Comparativa de Representación de Datos
+
+```html
+<table>
+    <tr>
+        <th>Decimal</th>
+        <th>Binario</th>
+        <th>Signo Magnitud</th>
+        <th>Complemento 1</th>
+        <th>Complemento 2</th>
+        <th>Exceso 4</th>
+        <th>Exceso 3-Complemento 2</th>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>0100</td>
+        <td>0100</td>
+        <td>0100</td>
+        <td>0100</td>
+        <td>1000</td>
+        <td>0111</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>0011</td>
+        <td>0011</td>
+        <td>0011</td>
+        <td>0011</td>
+        <td>0111</td>
+        <td>0110</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>0010</td>
+        <td>0010</td>
+        <td>0010</td>
+        <td>0010</td>
+        <td>0110</td>
+        <td>0101</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>0001</td>
+        <td>0001</td>
+        <td>0001</td>
+        <td>0001</td>
+        <td>0101</td>
+        <td>0100</td>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>0000</td>
+        <td>0000</td>
+        <td>0000</td>
+        <td>0000</td>
+        <td>0100</td>
+        <td>0011</td>
+    </tr>
+    <tr>
+        <td>-1</td>
+        <td>1111</td>
+        <td>1001</td>
+        <td>1110</td>
+        <td>1111</td>
+        <td>0011</td>
+        <td>0010</td>
+    </tr>
+    <tr>
+        <td>-2</td>
+        <td>1110</td>
+        <td>1010</td>
+        <td>1101</td>
+        <td>1110</td>
+        <td>0010</td>
+        <td>0001</td>
+    </tr>
+    <tr>
+        <td>-3</td>
+        <td>1101</td>
+        <td>1011</td>
+        <td>1100</td>
+        <td>1101</td>
+        <td>0001</td>
+        <td>0000</td>
+    </tr>
+    <tr>
+        <td>-4</td>
+        <td>1100</td>
+        <td>1100</td>
+        <td>1011</td>
+        <td>1100</td>
+        <td>0000</td>
+        <td>1111</td>
+    </tr>
+</table>
+
+### Exceso
+
+El sistema de representación por exceso, también conocido como "biased notation", es una forma de representar números que desplaza el rango de valores de tal manera que todos los valores son positivos o cero. Eso se logra sumando una constante al valor real para obtener la representación alamacenada. Por ejemplo, el **Exceso 4** significa que se suma 4 al valor real, y el **Exceso 3-Complemento 2** es una variación que utiliza el complemento a 2 en este esquema.
+
+### Representación Decimal en la ENIAC con la BCD
+
+La **ENIAC**, uno de los primeros computadores electrónicos, usaba un sistema de representación decimal en el cual cada dígito decimal se representaba directamente utilizando una codificación binaria. Este sistema se conocía como **BCD (Binary-Coded Decimal)**. En BCD, cada dígito decimal (0-9) se representaba por su equivalente binario de 4 bits. Así, el número `1234` en BDC sería:
+
+1 -> 0001
+2 -> 0010
+3 -> 0011
+4 -> 0100
+
+### Sistema de Representación ASCII
+
+ASCII es un sistema de codificación de caracteres utilizado para representar texto en computadoras y otros dispositivos que utilizan texto. Existen dos variantes de ASCII: el estándar y el extendido.
+
+**ASCII Estándar**
+
+El ASCII estándar utiliza 7 bits para representar 128 caracteres, incluidos letras, dígitos, signos de puntuación y caracteres de control.
+
+**ASCII Extendido**
+
+El ASCII extendido utiliza 8 bits, permitiendo la representación de 256 caracteres. Esto incluye todos los caracteres del ASCII estándar más caracteres adicionales como letras acentuadas, símbolos gráficos y caracteres especiales utilizados en diferentes idiomas y aplicaciones.
+
+### Sistema de Representación Unicode
+
+Unicode es un estándar de codificación de caracteres diseñado para soportar una amplia gama de sistemas de escritura del mundo. Unicode utiliza varios esquemas de codificación, los más comunes son UTF-8, UTF-16, y UTF-32.
+
+UTF-8: Utiliza 1 a 4 bytes para cada carácter, y es compatible con ASCII.
+
+UTF-16: Utiliza 2 o 4 bytes por carácter.
+
+UTF-32: Utiliza 4 bytes por carácter.
+
+Unicode permite la representación de más de 1 millón de caracteres, incluyendo emojis, caracteres de lenguajes antiguos y modernos, y símbolos matemáticos y técnicos.
+
+### Representación de Números Flotantes en Binario
+
+La representación de números flotantes en binario sigue el estándar IEEE 754. Un número flotante está compuesto de tres partes: el signo, el exponente, y la mantisa (o significando).
+
+**Pasos para la Representación**
+
+1. **Convertir la parte entera:** Convertir la parte entera del número a binario.
+2. **Convertir la parte fraccionaria:** Convertir la parte fraccionaria multiplicando repetidamente por 2 y registrando los dígitos enteros obtenidos.
+3. **Normalización:** Ajustar la representación para que el punto binario quede a la derecha del primer 1.
+4. **Exponente:** Codificar el exponente ajustado (usualmente en exceso).
+5. **Construcción:** Combinar el signo, el exponente y la mantisa en el formato final.
+
+**Ejemplo**
+
+Para representar el número decimal 5.375 en binario:
+
+1. Parte entera 5 en binario: `101`.
+2. Parte fraccionaria `0.375` en binario:
+
+0.375 * 2 = 0.75 -> 0
+0.75 * 2 = 1.5 -> 1
+0.5 * 2 = 1.0 -> 1
+Resultado: 0.011
+
+Así, 5.375 en binario es 101.011.
+
+3. Normalización: `1.01011 * 2^2`.
+4. Exponente en exceso 127 (para IEEE 754 de 32 bits):  `2 + 127 = 129`, que en binario es `10000001`.
+5. Mantisa: `010110`... (rellenado con ceros para completar los bits).
+
+Así, `5.375` en formato IEEE 754 de 32 bits es `01000000101011000000000000000000`.
