@@ -161,7 +161,7 @@ Para restar dos números utilizando complementos, convertimos el sustraendo a su
 
 Restar `1010` de `1101` usando complemento a 2:
 1. Complemento a 2 de `1010`: `0110`
-2. Sumar: \( 1101 + 0110 = 1\underline{0011} \)
+2. Sumar: \( 1101 + 0110 = 1\_0011 \)
 3. Ignoramos el acarreo final (el dígito más a la izquierda, `1`): El resultado es `0011`.
 
 La interpretación es que `0011` en binario es `3` en decimal, lo que confirma que `1101 - 1010 = 3`.
@@ -171,7 +171,7 @@ La interpretación es que `0011` en binario es `3` en decimal, lo que confirma q
 Restar `123` de `456` usando complemento a 10 (complemento a la base):
 1. Encuentra el complemento a 10 de `123` en un sistema de palabra de 3 dígitos:
 - Complemento a 10 (a la base) de `123`: \( 1000 - 123 = 877 \)
-2. Suma `456` y `877`: \( 456 + 877 = 1\underline{1333} \)
+2. Suma `456` y `877`: \( 456 + 877 = 1\_1333 \)
 3. Ignoramos el acarreo final (el dígito más a la izquierda, `1`): El resultado es `333`.
 
 ## Representación Interna de Datos con Sistemas Numéricos
@@ -280,8 +280,11 @@ El sistema de representación por exceso, también conocido como "biased notatio
 La **ENIAC**, uno de los primeros computadores electrónicos, usaba un sistema de representación decimal en el cual cada dígito decimal se representaba directamente utilizando una codificación binaria. Este sistema se conocía como **BCD (Binary-Coded Decimal)**. En BCD, cada dígito decimal (0-9) se representaba por su equivalente binario de 4 bits. Así, el número `1234` en BDC sería:
 
 1 -> 0001
+
 2 -> 0010
+
 3 -> 0011
+
 4 -> 0100
 
 ### Sistema de Representación ASCII
