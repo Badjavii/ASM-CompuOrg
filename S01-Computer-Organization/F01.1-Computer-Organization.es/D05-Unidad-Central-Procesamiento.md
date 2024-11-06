@@ -27,7 +27,7 @@ La **Unidad Aritmético-Lógica (ALU)** realiza operaciones aritméticas (como s
  Los **semisumadores** realizan operaciones de suma sin considerar el acarreo de entrada. Son la base para construir sumadores completos. 
 
 <div style="text-align: center;"> 
-    <!-- Aquí puedes insertar la imagen del circuito del semisumador --> <img src="/ruta/a/imagen/semisumador.jpg" alt="Semisumador" style="width: 50%; height: auto;"> 
+    <!-- Aquí puedes insertar la imagen del circuito del semisumador --> <img src="/ruta/a/imagen/semi-sumador.png" alt="Semisumador" style="width: 50%; height: auto;"> 
 </div> 
 <table> 
     <caption>Tabla de Karnaugh para Semisumador</caption> 
@@ -54,7 +54,7 @@ La **Unidad Aritmético-Lógica (ALU)** realiza operaciones aritméticas (como s
  
  <div style="text-align: center;"> 
     <!-- Aquí puedes insertar la imagen del circuito del sumador completo --> 
-    <img src="/ruta/a/imagen/sumador-completo.jpg" alt="Sumador Completo" style="width: 50%; height: auto;"> 
+    <img src="/sources/ImgCompuOrg/sumador.png" alt="Sumador Completo" style="width: 50%; height: auto;"> 
 </div> 
 <table> 
     <caption>Tabla de Karnaugh para Sumador Completo</caption> 
@@ -92,7 +92,7 @@ La **Unidad Aritmético-Lógica (ALU)** realiza operaciones aritméticas (como s
 Los **comparadores** determinan la relación entre dos valores, como igualdad, mayor que o menor que. 
 
 <div style="text-align: center;"> 
-    <!-- Aquí puedes insertar la imagen del circuito del comparador --> <img src="/ruta/a/imagen/comparador.jpg" alt="Comparador" style="width: 50%; height: auto;"> 
+    <!-- Aquí puedes insertar la imagen del circuito del comparador --> <img src="/sources/imgCompuOrg/comparador.jpg" alt="Comparador" style="width: 50%; height: auto;"> 
 </div> 
 <table> 
     <caption>Tabla de Karnaugh para Comparador</caption> 
