@@ -57,3 +57,7 @@ Los **Buses de Comunicación** son canales que permiten la transferencia de dato
 ### Reloj del Sistema 
 
 El **Reloj del Sistema** genera pulsos de sincronización que regulan el ritmo de las operaciones del computador. Cada pulso del reloj permite que la CPU realice una operación básica, como leer una instrucción o escribir datos en la memoria. La frecuencia del reloj se mide en Hertz (Hz), y determina cúantos ciclos de reloj ocurren por segundo. Por ejemplo, un reloj de 3 GHz (gigahercios) genera 3 mil millones de ciclos por segundo.
+
+<div>
+    <img src="/sources/ImgCompuOrg/system-clock.jpg" alt="This is an imagen" style="width: 50%; height: auto;">
+</div>
