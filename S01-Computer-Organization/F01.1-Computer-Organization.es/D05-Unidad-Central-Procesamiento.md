@@ -4,7 +4,7 @@
 
 La **Unidad de Control (UC)** dirige el flujo de datos entre la CPU y otros dispositivos. Interpreta las instrucciones de los programas y genera señales de control para ejecutar esas instrucciones. La UC contiene varios registros generales y registros específicos que ayudan en la ejecución de las instrucciones. 
 
-### Registros 
+## Registros 
 
 Los registros son pequeñas unidades de almacenamiento de alta velocidad dentro de la CPU que contienen datos temporales y son utilizados durante la ejecución de instrucciones. Algunos registros comunes incluyen: 
 
@@ -13,11 +13,11 @@ Los registros son pequeñas unidades de almacenamiento de alta velocidad dentro 
 - **MAR (Memory Address Register)**: Contiene la dirección de memoria de la siguiente instrucción o dato que se va a leer o escribir. 
 - **MBR (Memory Buffer Register)**: Almacena temporalmente los datos que se están transfiriendo hacia y desde la memoria. 
 
-### Unidad Aritmético-Lógica (ALU)
+## Unidad Aritmético-Lógica (ALU)
 
 La **Unidad Aritmético-Lógica (ALU)** realiza operaciones aritméticas (como suma y resta) y lógicas (como AND, OR, NOT). La ALU contiene circuitos eléctricos específicos como sumadores y comparadores.
 
-#### Circuito Semisumador
+### Circuito Semisumador
 
 Los **semisumadores** realizan operaciones de suma sin considerar el acarreo de entrada. Son la base para construir sumadores completos.
 
@@ -45,7 +45,7 @@ Los **semisumadores** realizan operaciones de suma sin considerar el acarreo de 
   </tr>
 </table>
 
-#### Circuito Sumador Completo
+### Circuito Sumador Completo
 
 El **sumador completo** es un circuito que realiza la suma de tres bits: dos bits de entrada y un bit de acarreo de entrada (Cin).
 
@@ -85,7 +85,7 @@ El **sumador completo** es un circuito que realiza la suma de tres bits: dos bit
   </tr>
 </table>
 
-#### Circuito Comparador
+### Circuito Comparador
 
 Los **comparadores** determinan la relación entre dos valores, como igualdad, mayor que o menor que.
 
@@ -113,7 +113,7 @@ Los **comparadores** determinan la relación entre dos valores, como igualdad, m
   </tr>
 </table>
 
-### Camino de Datos de una Máquina von Neumann Típica
+## Camino de Datos de una Máquina von Neumann Típica
 
 En una máquina von Neumann típica, el camino de datos incluye varios componentes y buses que facilitan la transferencia de datos y la ejecución de instrucciones:
 
@@ -122,6 +122,6 @@ En una máquina von Neumann típica, el camino de datos incluye varios component
 - **Bus de Entrada de la ALU**: Transporta los datos desde los registros hasta la ALU.
 - **Registros**: Incluyen registros de propósito general y específicos que almacenan temporalmente datos y direcciones durante la ejecución de las instrucciones.
 
-### Tipos de Registros
+## Tipos de Registros
 
 - **Registros de Propósito General**: Utilizados para almacenar datos temporales y operandos de las instrucciones.
