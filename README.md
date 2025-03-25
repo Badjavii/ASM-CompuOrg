@@ -1,6 +1,6 @@
 # Computer Organization, OS and Architecture | Assembly 
 
-This repository is created to document the learning process about the internal Organization and Architecture of a PC, as well as the use of the Assembly programming language, which is the closest to machine language.
+This repository is created to document the learning process about the internal Organization of a Computer, Operating Systems and Applied Architecture. As well, the repository contains a section for Assembly programming language.
 
 ## Index
 
@@ -11,7 +11,7 @@ This repository is created to document the learning process about the internal O
     - Deep Dive into von Neumann Architecture - ALU, CU, Registers, and Instruction Cycles.
 
 - Computer Architecture.
-    (Soon)
+    (Soon...)
 
 - Operating Systems.
     - Evolution of Operating Systems.
@@ -30,12 +30,16 @@ This repository is created to document the learning process about the internal O
 
 ## About Computer Organization
 
-Computer organization refers to the structure and behavior of the physical components of a computer. This includes basic hardware such as the CPU, memory, and input/output devices. In this section, we will explore how these components interact with each other and how they are managed to perform computational tasks.
+Computer organization refers to the structure and behavior of the physical components of a computer. This includes basic hardware such as the CPU, memory, and input/output devices. In this section, we explore how these components interact with each other and how they are managed to perform computational tasks.
+
+## About Operating Systems
+
+The Operating System is the interface that communicates hardware with software applications. In this section, we go deeper into how an operating system is built, covering its operation and fields.
 
 ## About Computer Architecture
 
-Computer architecture focuses on the conceptual design and operational structure of computer systems. Unlike computer organization, which deals more with physical aspects, computer architecture is concerned with how systems are designed and optimized to improve performance and efficiency. Here we will discuss topics such as instruction sets, CPU architecture, and optimization techniques.
+(Coming Soon...)
 
 ## About Assembly Language 
 
-Assembly is a low-level programming language used to write programs that are very close to machine language. Unlike high-level languages, Assembly allows precise control over the computer hardware, making it ideal for tasks that require extreme performance optimization. In this section, we will learn about Assembly syntax, how to write and debug programs in this language, and its application in systems programming.
+Assembly is a programming language used to program microprocessors. Assembly is the most direct representation of machine language. In this section, we learn about Assembly syntax, how to write and debug programs in this language, and its application in systems programming.
