@@ -1,27 +1,44 @@
-# Organización y Arquitectura del Computador | Assembly 
+# Organización de Computadoras, Sistemas Operativos y Arquitectura | Ensamblador
 
-Este repositorio está creado para documentar el proceso de aprendizaje sobre la Organización y Arquitectura interna de una PC, así como el uso del lenguaje de programación Assembly, que es el más cercano al lenguaje máquina.
+Este repositorio se creó para documentar el proceso de aprendizaje sobre la organización interna de una computadora, los sistemas operativos y la arquitectura aplicada. Además, el repositorio contiene una sección dedicada al lenguaje de programación ensamblador.
 
 ## Índice
 
-- Organización del Computador.
-    - Introducción a la Organización del Computador - Hardware Básico.
-    - Historia de la Computación - Desarrollos Tempranos y Avances del Siglo XX.
-    - Sistemas Numéricos - Historia, componentes y operaciones.
-    - Profundizando en la Arquitectura de von Neumann - ALU, UC, Registros y Ciclos de Instrucciones.
+- Organización de Computadoras.
+- Introducción a la Organización de Computadoras - Hardware Básico.
+- Historia de la Computación - Desarrollos Iniciales y Avances del Siglo XX.
+- Sistemas Numéricos - Historia, Componentes y Operaciones.
+- Profundización en la Arquitectura de von Neumann - ALU, CU, Registros y Ciclos de Instrucción.
 
-- Arquitectura del Computador.
+- Arquitectura de Computadoras.
+(Próximamente...)
 
-- Programación en Lenguaje Assembly.
+- Sistemas Operativos.
+- Evolución de los Sistemas Operativos.
+- Conceptos Generales de los Sistemas Operativos.
+- Procesos e Hilos.
+- Planificación.
+- Gestión de Memoria.
+- Entrada/Salida.
+- Seguridad.
 
-## Sobre la Organización del Computador
+- Programación en Lenguaje Ensamblador.
+- ¿Qué es un Lenguaje Ensamblador?
+- Características del Lenguaje Ensamblador. - Tipos de lenguaje ensamblador - Pseudoensamblador.
+- Ensamblador Intel 8086.
 
-La organización del computador se refiere a la estructura y comportamiento de los componentes físicos de una computadora. Esto incluye hardware básico como la CPU, la memoria y los dispositivos de entrada/salida. En esta sección, exploraremos cómo estos componentes interactúan entre sí y cómo se gestionan para realizar tareas computacionales.
+## Acerca de la organización de la computadora
 
-## Sobre la Arquitectura del Computador
+La organización de la computadora se refiere a la estructura y el comportamiento de los componentes físicos de una computadora. Esto incluye hardware básico como la CPU, la memoria y los dispositivos de entrada/salida. En esta sección, exploramos cómo estos componentes interactúan entre sí y cómo se gestionan para realizar tareas computacionales.
 
-La arquitectura del computador se enfoca en el diseño conceptual y la estructura operacional de los sistemas informáticos. A diferencia de la organización del computador, que trata más sobre los aspectos físicos, la arquitectura del computador se centra en cómo se diseñan y optimizan los sistemas para mejorar el rendimiento y la eficiencia. Aquí discutiremos temas como los conjuntos de instrucciones, la arquitectura de la CPU y las técnicas de optimización.
+## Acerca de los sistemas operativos
 
-## Sobre el Lenguaje Assembly 
+El sistema operativo es la interfaz que comunica el hardware con las aplicaciones de software. En esta sección, profundizamos en cómo se construye un sistema operativo, abarcando su funcionamiento y sus campos.
 
-Assembly es un lenguaje de programación de bajo nivel que se utiliza para escribir programas que están muy cerca del lenguaje máquina. A diferencia de los lenguajes de alto nivel, Assembly permite un control preciso sobre el hardware del computador, lo que lo hace ideal para tareas que requieren una optimización extrema del rendimiento. En esta sección, aprenderemos sobre la sintaxis de Assembly, cómo escribir y depurar programas en este lenguaje, y su aplicación en la programación de sistemas.
+## Acerca de la arquitectura de la computadora
+
+(Próximamente...)
+
+## Acerca del lenguaje ensamblador
+
+El ensamblador es un lenguaje de programación utilizado para programar microprocesadores. El ensamblador es la representación más directa del lenguaje máquina. En esta sección, aprendemos sobre la sintaxis del ensamblador, cómo escribir y depurar programas en este lenguaje y su aplicación en la programación de sistemas.
