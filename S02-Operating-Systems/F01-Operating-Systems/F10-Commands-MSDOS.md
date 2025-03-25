@@ -4,3 +4,8 @@ MSDOS (Microsoft Disk Operating System) was an operating system designed by Bill
 
 MSDOS is currently used as the default command interface for Windows. Is better know as `cmd`.
 
+`A command interface operates in the background to support the functions of a graphical user interface. The use of a command interface involves: 
+
+1- Open a command interface (as cmd). 
+2- Identify your objective (for example, navigating directories). 
+3- Use the commands that you need to complete your objective (cd).`
