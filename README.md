@@ -1,4 +1,4 @@
-# Computer Organization and Architecture | Assembly 
+# Computer Organization, OS and Architecture | Assembly 
 
 This repository is created to document the learning process about the internal Organization and Architecture of a PC, as well as the use of the Assembly programming language, which is the closest to machine language.
 
@@ -11,8 +11,22 @@ This repository is created to document the learning process about the internal O
     - Deep Dive into von Neumann Architecture - ALU, CU, Registers, and Instruction Cycles.
 
 - Computer Architecture.
+    (Soon)
+
+- Operating Systems.
+    - Evolution of Operating Systems.
+    - General Concepts of Operating Systems.
+    - Processes and Threads.
+    - Plannifications.
+    - Memory Management.
+    - Input/Output.
+    - Security.
 
 - Assembly Language Programming.
+    - What's an Assembly Language.
+    - Characteristics of Assembly Language.
+    - Types of Assembly Language - PseudoAssembly.
+    - Assembly Intel 8086.
 
 ## About Computer Organization
 
