@@ -1,6 +1,6 @@
 # Linux Command Line Interface
 
-Linux is a free and open-source operating system, the kernel of which was developed by Linus Torvalds in 1991.
+Linux is a free and open-source operating system designed by Linus Torvalds in 1991.
 
 Torvalds specifically created the Linux kernel, which is the heart of the operating system. This kernel provides communication between hardware and software. However, Linux is not a complete operating system on its own; it combines with tools and utilities developed by the GNU project and other components to form what are known as *GNU/Linux distributions*.
 
