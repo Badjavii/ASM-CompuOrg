@@ -84,7 +84,8 @@ Esta guía se basa en un documento PDF en línea que muestra cada comando y su u
 - `SHUTDOWN`: Permite el apagado local o remoto de un equipo.
 - `SORT`: Ordena la salida.
 - `START`: Inicia otra ventana para ejecutar un programa o comando específico.
-- `SUBST`: Asocia una ruta a una letra de unidad. - `SYSTEMINFO`: Muestra las propiedades y la configuración específicas del equipo.
+- `SUBST`: Asocia una ruta a una letra de unidad. 
+- `SYSTEMINFO`: Muestra las propiedades y la configuración específicas del equipo.
 - `TASKKILL`: Finaliza o interrumpe un proceso o aplicación en ejecución.
 - `TASKLIST`: Muestra todas las tareas en ejecución, incluidos los servicios.
 - `TIME`: Muestra o establece la hora del sistema.
