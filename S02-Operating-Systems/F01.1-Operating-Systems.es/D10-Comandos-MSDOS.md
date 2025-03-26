@@ -38,7 +38,8 @@ Esta guía se basa en un documento PDF en línea que muestra cada comando y su u
 - `DIR`: Muestra una lista de archivos y subdirectorios en un directorio.
 - `DISKPART`: Muestra o configura las propiedades de la partición del disco.
 - `DISKCOMP`: Compara el contenido de dos disquetes.
-- `DOSKEY`: Edita líneas de comandos, recupera comandos de Windows y crea macros. - `DRIVERQUERY`: Muestra el estado actual y las propiedades del controlador del dispositivo.
+- `DOSKEY`: Edita líneas de comandos, recupera comandos de Windows y crea macros. 
+- `DRIVERQUERY`: Muestra el estado actual y las propiedades del controlador del dispositivo.
 - `ECHO`: Muestra mensajes o activa y desactiva el eco.
 - `ENDLOCAL`: Finaliza la búsqueda de variables de entorno del archivo por lotes.
 - `ERASE`: Elimina uno o más archivos.
@@ -49,7 +50,8 @@ Esta guía se basa en un documento PDF en línea que muestra cada comando y su u
 - `FOR`: Ejecuta un comando para cada archivo de un conjunto de archivos.
 - `FORMAT`: Formatea un disco para su uso con Windows.
 - `FSUTIL`: Muestra o establece las propiedades del sistema de archivos.
-- `FTYPE`: Muestra o modifica los tipos de archivo utilizados en las asociaciones de extensiones de archivo. - `GOTO`: Dirige al intérprete de comandos de Windows a una línea etiquetada.
+- `FTYPE`: Muestra o modifica los tipos de archivo utilizados en las asociaciones de extensiones de archivo. 
+- `GOTO`: Dirige al intérprete de comandos de Windows a una línea etiquetada.
 - `GPRESULT`: Muestra información de la directiva de grupo por equipo o usuario.
 - `GRAFTABLE`: Permite a Windows mostrar un conjunto de caracteres extendido en modo gráfico.
 - `HELP`: Proporciona información de ayuda para los comandos de Windows.
@@ -61,7 +63,8 @@ Esta guía se basa en un documento PDF en línea que muestra cada comando y su u
 - `MKLINK`: Crea enlaces simbólicos y enlaces físicos.
 - `MODE`: Configura un dispositivo del sistema.
 - `MORE`: Muestra información pantalla por pantalla.
-- `MOVE`: Mueve uno o más archivos de un directorio a otro. - `OPENFILES`: Muestra los archivos compartidos abiertos por usuarios remotos como recurso compartido.
+- `MOVE`: Mueve uno o más archivos de un directorio a otro. 
+- `OPENFILES`: Muestra los archivos compartidos abiertos por usuarios remotos como recurso compartido.
 - `PATH`: Muestra o establece una ruta de búsqueda para archivos ejecutables.
 - `PAUSE`: Suspende el procesamiento de un archivo por lotes y muestra un mensaje.
 - `POPD`: Restaura el valor anterior del directorio actual guardado en PUSHD.
