@@ -27,7 +27,8 @@ Esta guía se basa en un documento PDF en línea que muestra cada comando y su u
 - `CHDIR`: Muestra el nombre del directorio actual o cambia a otro directorio.
 - `CHKDSK`: Comprueba un disco y muestra un informe de su estado.
 - `CHKNTFS`: Muestra o modifica la comprobación del disco al iniciar.
-- `CLS`: Borra la pantalla. - `CMD`: Inicia una nueva instancia del intérprete de comandos de Windows.
+- `CLS`: Borra la pantalla. 
+- `CMD`: Inicia una nueva instancia del intérprete de comandos de Windows.
 - `COLOR`: Establece los colores predeterminados de primer plano y fondo de la consola.
 - `COMP`: Compara el contenido de dos archivos o de un conjunto de archivos.
 - `COMPACT`: Muestra o cambia el estado de compresión de los archivos en particiones NTFS.
